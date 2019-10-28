@@ -1,6 +1,6 @@
 public class Reverse
 {
-static String s = "Hello World";
+static String s = "How are you";
 static public String rev = "";
     public static void main(String[]args)
      {
